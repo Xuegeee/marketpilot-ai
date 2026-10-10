@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+~$*.docx
+*.tmp
+*.log
+.qa/
+work/
+rendered/

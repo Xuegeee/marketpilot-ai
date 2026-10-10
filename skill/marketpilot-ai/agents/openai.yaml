@@ -1,0 +1,6 @@
+interface:
+  display_name: "MarketPilot AI"
+  short_description: "Market-entry research for any country or city"
+  default_prompt: "Evaluate a company, brand, product, or service entering a new market."
+policy:
+  allow_implicit_invocation: true
